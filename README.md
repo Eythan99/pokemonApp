@@ -51,7 +51,6 @@ Expérimentation de Gitflow
 
 ![ecran1]
 
- C:\Users\eythan dahan\Documents\Capture_pokemon_App.PNG
 
 
 ### Ecran de détail :
