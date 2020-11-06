@@ -51,12 +51,10 @@ Expérimentation de Gitflow
 
 ![ecran1]
 
-(https://github.com/Luxithan/AppMobile3A/blob/master/Screen1.png)
 
 
 ### Ecran de détail :
 
 ![ecran2]
-(https://github.com/Luxithan/AppMobile3A/blob/master/Screen2.png)
 
  
