@@ -49,13 +49,13 @@ Expérimentation de Gitflow
 ## Images de l'application
 ### Ecran de présentation :
 
-![ecran1]
+![Screen1]
 
 
 
 ### Ecran de détail :
 
-![ecran2]
+![Screen2]
 
 
  
