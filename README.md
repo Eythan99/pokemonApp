@@ -54,7 +54,7 @@ Expérimentation de Gitflow
 
 ### Ecran de détail :
 
-![Screen2.png]
+![picture](Screen2.png)
 
 
  
